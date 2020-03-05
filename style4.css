@@ -1,0 +1,75 @@
+        body {
+      background-image: url(https://previews.123rf.com/images/malydesigner/malydesigner1405/malydesigner140500162/28158270-light-cyan-background-texture.jpg);
+  background-size: cover;
+        font-family:sans-serif;
+    }
+    
+    .main {
+        background-color: white;
+        width: 400px;
+        height: 450px;
+        margin: 150px auto;
+        border-radius: 20px;
+    }
+    
+    .sign {
+        padding-top: 40px;
+        color: darkcyan;
+        font-family:sans-serif;
+        font-weight: bold;
+        font-size: 33px;
+    }
+    
+    .un,.pass {
+    width: 75%;
+    color: black;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    background-color:lightgray;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: sans-serif;
+    }
+    .main2{
+        padding-top:30px;
+    }
+
+    
+    
+    .submit {
+      cursor: pointer;
+        border-radius: 5px;
+        color: #fff;
+        background: linear-gradient(to right,cyan,darkcyan);
+        border: 1px solid black ;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        font-family: sans-serif;
+        margin-left: 35%;
+        font-size: 13px;
+        box-shadow: 0 7px gray;
+    }
+    .submit:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+    .learnforgot{
+        padding-top:15px;
+    }
+    .learnforgot a{
+        text-decoration: none;
+      color: darkcyan;
+
+    }
+ 
+        
+   
